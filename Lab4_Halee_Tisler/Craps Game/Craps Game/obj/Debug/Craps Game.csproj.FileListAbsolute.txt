@@ -1,0 +1,10 @@
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab4_Halee_Tisler\Craps Game\Craps Game\bin\Debug\Craps Game.exe.config
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab4_Halee_Tisler\Craps Game\Craps Game\bin\Debug\Craps Game.exe
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab4_Halee_Tisler\Craps Game\Craps Game\bin\Debug\Craps Game.pdb
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab4_Halee_Tisler\Craps Game\Craps Game\obj\Debug\Craps Game.csproj.AssemblyReference.cache
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab4_Halee_Tisler\Craps Game\Craps Game\obj\Debug\Craps_Game.Craps.resources
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab4_Halee_Tisler\Craps Game\Craps Game\obj\Debug\Craps_Game.Properties.Resources.resources
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab4_Halee_Tisler\Craps Game\Craps Game\obj\Debug\Craps Game.csproj.GenerateResource.cache
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab4_Halee_Tisler\Craps Game\Craps Game\obj\Debug\Craps Game.csproj.CoreCompileInputs.cache
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab4_Halee_Tisler\Craps Game\Craps Game\obj\Debug\Craps Game.exe
+C:\Users\halee\Desktop\Oakland\Freshman Year\EGR 1400\Lab4_Halee_Tisler\Craps Game\Craps Game\obj\Debug\Craps Game.pdb
